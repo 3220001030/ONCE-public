@@ -1,0 +1,511 @@
+文章总数: 2 篇
+===========================================================================
+
+1. 360doc个人图书馆 -  (碳中和目标下的若干地球系统科学和技术问题分析) 2022-05-15 阅览室   
+
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+文字快照 :http://www.360doc.com/content/22/0515/15/9890911_1031470039.shtml
+
+
+
+
+展开全文
+
+引用本文
+
+蔡兆男, 成里京, 李婷婷, 郑循华, 王林, 韩圣慧, 王凯, 屈侠, 江飞, 张永雨, 朱建华, 龙上敏, 孙扬, 贾炳浩, 袁文平, 张天一, 张晴, 谢瑾博, 朱家文, 刘志强, 吴琳, 杨东旭, 魏科, 吴林, 张稳, 刘毅, 曹军骥. 碳中和目标下的若干地球系统科学和技术问题分析. 中国科学院院刊, 2021, 36(5): 602-613
+
+CAI Zhaonan, CHENG Lijing, LI Tingting, ZHENG Xunhua, WANG Lin, HAN Shenghui, WANG Kai, QU Xia, JIANG Fei, ZHANG Yongyu, ZHU Jianhua, LONG Shangmin, SUN Yang, JIA Binghao, YUAN Wenping, ZHANG Tianyi, ZHANG Qing, XIE Jinbo, ZHU Jiawen, LIU Zhiqiang, WU Lin, YANG Dongxu, WEI Ke, WU Lin, ZHANG Wen, LIU Yi, CAO Junji. Key Scientific and Technical Issues in Earth System Science Towards Achieving Carbon Neutrality in China. Bulletin of Chinese Academy of Sciences, 2021, 36(5): 602-613
+
+碳中和目标下的若干地球系统科学和技术问题分析
+
+蔡兆男1 ,  成里京1,2 ,  李婷婷1,2,3 ,  郑循华1,2 ,  王林1,2 ,  韩圣慧1,2 ,  王凯1,2 ,  屈侠1,2 ,  江飞4 ,  张永雨5 ,  朱建华6 ,  龙上敏7 ,  孙扬1 ,  贾炳浩1 ,  袁文平8 ,  张天一1 ,  张晴1 ,  谢瑾博1 ,  朱家文1 ,  刘志强1 ,  吴琳1 ,  杨东旭1 ,  魏科1 ,  吴林1,2 ,  张稳1 ,  刘毅1,2 ,  曹军骥1,2 
+
+1. 中国科学院大气物理研究所 北京 100029;
+
+2. 中国科学院大学 地球与行星科学学院 北京 100049;
+
+3. 南方海洋科学与工程广东省实验室 珠海 519080;
+
+4. 南京大学 国际地球系统科学研究所 南京 210023;
+
+5. 中国科学院青岛生物能源与过程研究所 青岛 266101;
+
+6. 中国林业科学研究院森林生态环境与保护研究所 北京 100091;
+
+7. 河海大学 海洋学院 南京 210024;
+
+8. 中山大学 大气科学学院 广州 510275
+
+修改稿收到日期：2021年5月9日
+
+资助项目：中国科学院青年创新促进会会员项目（2018097、2020077）
+
+作者简介：蔡兆男中国科学院大气物理研究所副研究员。中国科学院青年创新促进会会员。主要从事大气温室气体和污染气体的卫星遥感、地基遥感、温室气体探空观测、碳源/汇反演研究。发表学术论文30余篇, 其中第一或通讯作者10余篇。主持和参与多项国家自然科学基金青年项目、面上项目和重点研发计划项目, 以及中国科学院战略性先导科技专项等。E-mail: caizhaonan@mail.iap.ac.cn;
+
+成里京中国科学院大气物理研究所副研究员。中国科学院青年创新促进会会员。主要从事海洋和气候变化监测、全球能量和水循环等方向的研究。发表学术论文56篇, 包括在Science、Science Advances、Nature Climate Change、Journal of Climate等期刊发表第一或通讯作者34篇, SCI他引1 000余次。主持国家国家自然科学基金青年项目和面上项目, 作为课题负责人参加国家重点研发计划等。2017-2019年担任政府间气候变化专门委员会(IPCC)海洋与冰冻圈特别报告主要作者, 2019年至今担任世界气象组织气候变率及可预测性计划全球综合观测委员会委员。2020年获世界气候研究计划(WCRP)与全球气候观测系统(GCOS)联合颁发的'国际数据奖'。E-mail: chenglij@mail.iap.ac.cn
+
+通讯作者：蔡兆男;
+
+成里京
+
+摘要：碳中和作为21世纪最大规模的有序人类活动，亟待科学应对。文章从地球系统科学角度，讨论了支撑“碳达峰、碳中和”目标的大气、陆地和海洋相关的地球系统科学中的若干科学和技术问题及现存的知识不足。从地球系统模式、气候监测指标、温室气体监测技术、碳源/汇核算方法体系等方面，阐述了支撑碳中和的关键技术手段及现存的问题。基于目前存在的挑战和不足，建议深入理解气候系统多圈层相互作用过程和机制，完善地球系统理论与模式，从多圈层角度加强“碳达峰、碳中和”目标和气候变化理论基础；自主构建气候变化监测指标系统，研发温室气体监测与核查手段和平台，为碳中和目标提供先进的技术手段支撑。
+
+关键词：碳中和碳源碳汇温室气体气候变化地球系统模式气候监测
+
+Key Scientific and Technical Issues in Earth System Science Towards Achieving Carbon Neutrality in China
+
+CAI Zhaonan1,  CHENG Lijing1,2,  LI Tingting1,2,3,  ZHENG Xunhua1,2,  WANG Lin1,2,  HAN Shenghui1,2,  WANG Kai1,2,  QU Xia1,2,  JIANG Fei4,  ZHANG Yongyu5,  ZHU Jianhua6,  LONG Shangmin7,  SUN Yang1,  JIA Binghao1,  YUAN Wenping8,  ZHANG Tianyi1,  ZHANG Qing1,  XIE Jinbo1,  ZHU Jiawen1,  LIU Zhiqiang1,  WU Lin1,  YANG Dongxu1,  WEI Ke1,  WU Lin1,2,  ZHANG Wen1,  LIU Yi1,2,  CAO Junji1,2 
+
+1. Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing 100029, China;
+
+2. College of Earth and Planetary Sciences, University of Chinese Academy of Sciences, Beijing 100049, China;
+
+3. Southern Marine Science and Engineering Guangdong Laboratory, Zhuhai 519080, China;
+
+4. International Institute for Earth System Science, Nanjing University, Nanjing 210023, China;
+
+5. Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences, Qingdao 266101, China;
+
+6. Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Beijing 100091, China;
+
+7. College of Oceanography, Hohai University, Nanjing 210024, China;
+
+8. School of Atmospheric Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+
+Author: CAI ZhaonanPh.D., Associate Professor of Institutes of Atmospheric Physics, Chinese Academy of Sciences (CAS), member of Youth Innovation Promotion Association of CAS. His research focuses on satellite  ground-based remote sensing of atmospheric trace gases, balloon-sounding of greenhouse gases, and flux inversion. He has published over 30 papers, among them, he first authored or correspondingly authored 10 of them. In recent years, he has mainly undertaken projects of the CAS, China Association for Science and Technology, and National Natural Science Foundation of China. E-mail: caizhaonan@mail.iap.ac.cn;
+
+CHENG LijingPh.D, Associate Professor in Institute of Atmospheric Physics, Chinese Academy of Sciences (CAS), member of Youth Innovation Promotion Association of CAS. His research focuses on ocean and climate monitoring, global energy and water cycle. He has published 56 papers (34 of them are first or corresponding authors in Science, Science Advances, Nature Climate Change, Journal of Climate, and other journals) with a total citation of &gt;1000 by SCI-indexed papers.His research was funded by National Natural Science Foundation of China (NSFC), Key Research and Development Program of China, etc. He has been selected as a Lead Author for IPCC Special Report on the Ocean and Cryosphere in a Changing Climate within 2017-2019.He is a member of CLIVAR (Climate Variability and Predictability Program), Global Synthesis and Observations Panel from 2019 to present.He was awarded to 'International Data Prize' by WCRP/GCOS in 2020. E-mail: chenglij@mail.iap.ac.cn.
+
+Corresponding author: CAI Zhaonan;
+
+CHENG Lijing.
+
+Abstract: The carbon neutrality strategy will be the largest orderly human activity in this century, which requires strong scientific supports. This study introduces some key scientific questions and remaining knowledge gaps in earth system science (i.e. atmosphere, land, ocean science), and also discusses some key techniques and the associated challenges, including Earth System Model, climate metrics, greenhouse gasses monitoring techniques, carbon inventories from regional to global scales. On this basis, this study recommends to construct climate monitoring system and platform in China, better describe and understand the earth system coupling processes and mechanisms. To consolidate the techniques for carbon neutrality, this study also suggests to build carbon monitoring and inventory assessment platform and to improve the Earth System Model.
+
+Keywords: carbon neutralitycarbon sourcecarbon sinkgreenhouse gasclimate changeearth system modelclimate monitoring
+
+碳排放指以二氧化碳（CO2）为代表的人为温室气体排放，其中包括CO2和非CO2气体，但均以CO2当量计。碳达峰是指一定空间范围（如全球或某级行政辖区）内的碳排放年总量在某个时间段呈现为工业化以来的最高峰值。政府间气候变化专门委员会（IPCC）指出，碳中和是指净零碳排放，即规定时期内人为移除与人为排入大气的CO2当量相互抵消[1]。根据《中华人民共和国气候变化第二次两年更新报告》 [2]，我国2014年的碳排放量约为11.2 Gt（1 Gt=109 t）CO2当量，占同年全球排放量①的大约22.3%，未来实现碳中和所需的碳减排压力远大于任何一个发达经济体。
+
+① 根据《联合国气候变化报告2019》（United Nations Climate Change Annual Report 2019）中的统计。
+
+实现碳中和涉及人为减排、能源结构调整、人工碳汇等手段的实施，这些本质上都属于有序人类活动[3]，其目标是包括中国在内的全球各国通过合理安排和组织，在满足社会经济发展需求的同时使自然环境在一定时空尺度内不发生明显退化，甚至能持续好转。在实施层面，人类社会通过降低碳排放的手段进行气候调控属于对自然环境的人工调控或者最优调控问题，也是自然控制论的研究范畴[4]。碳达峰与碳中和涉及诸多亟待解决的重要科学问题，本文主要阐述碳达峰与碳中和目标下地球系统中大气、陆地和海洋相关的若干关键科学问题及知识缺口，以及支撑碳中和的监测和评估方法。面向国家碳中和重大战略需求，科学界亟待解决这些问题，支撑我国建设世界科技强国。
+
+1 温室气体及全球响应和反馈过程1.1 地球系统响应温室气体增加的科学基础及不确定性
+
+地表温度对温室气体排放具有接近实时的快速响应（按年计），长时间尺度的地表温度变化和累积温室气体排放有近线性的关系（图 1），即大约550 Gt的碳排放会对应1℃的升温。自工业革命以来的温室气体排放累积导致了全球平均气温上升约1.1℃。而未来的温度变化主要取决于未来的排放量，所以《巴黎协定》的2℃控温目标实际上对应了未来的温室气体总排放量：粗略估计只有约500 Gt的排放空间[5]。
+
+图 1 全球地表温度与累计CO2间的关系及其不确定性来源Figure 1 Relationship between global mean surface temperature and cumulative CO2 emissions, and uncertain processes affecting the relationship（a）地表温度与CO2累积排放量；其中，实心黑色椭圆表示观测到的至2005年的CO2累计排放和2000—2009年这10年观测到的温度，而不同颜色的椭圆表示基于气候模型在不同未来温室气体排放情景下的2100年气温和1870—2100年累计CO2的对应关系，椭圆旁的数字表示2100年的大气CO2浓度（单位为ppm）（图简化自IPCC-AR5）；（b）影响估计地表温度对温室气体响应关系的主要不确定性来源[9] (a) Global mean surface temperature increases as a function of cumulative total global CO2 emissions; the filled black ellipse shows observed emissions to 2005 and observed temperatures in the decade 2000–2009 with associated uncertainties. Ellipses show total anthropogenic warming in 2100 versus cumulative CO2 emissions from 1870 to 2100 from a simple climate model (median climate response) under different scenarios (figure from IPCC-AR5); (b) Uncertain processes affecting relationship between increasing global mean surface temperature and cumulative CO2 emissions [9]
+
+图选项
+
+科学界已经明确温室气体排放会导致气温上升[6-8]，并以此作为未来减排目标的主要科学依据。但是，不确定性依然存在[9]（图 1），主要来自以下方面：气温对温室气体的响应过程和机制的不确定性，包括碳循环的响应；地球系统中大气、陆地、冰冻圈、海洋等对温室气体的响应及其相互作用；冻土的反馈机制；CO2及非CO2温室气体的核算及其反馈机制；地球系统的非线性响应及自然变率的贡献等。减小气温对温室气体响应过程和机制的不确定性将为未来精准核算碳收支提供科学基础。
+
+除了地表温度上升外，全球变化表现为大气、海洋、陆地、冰冻圈、生物圈等各圈层的系统性变化，包括且不限于：海洋升温和酸化、陆面温度上升、高山冰川和北极海冰范围缩小、格陵兰和南极冰盖质量损失、海平面上升、极端事件加剧等，这些是全球变化的主要判别指标。目前，这些主要的全球性气候指标数据依然被欧美国家的政府机构或研究团体主导，我国的贡献甚少。同时，我国尚未建立关键气候变化核心指标的实时监测平台，这制约了我国施行快速、精准的气候变化政策，也制约了我国对碳达峰与碳中和目标的措施进行绩效评价。
+
+1.2 全球海洋和大气响应全球气候变化的科学问题及知识缺口1.2.1 海洋的响应和反馈
+
+全球变暖90% 以上的热量都储存在海洋中。由于巨大的体量和比热容，海洋对温室气体的响应具有延时性[10]。即使碳中和目标可以达成，海洋变暖、海平面上升等依然会持续[8, 11]，这对未来适应和减缓气候变化提出了更高的要求。
+
+全球海洋物理状态的变化会改变海洋的碳收支（例如，海洋吸收CO2的“生物泵”和“物理泵”），对碳中和目标的实现有重要影响。海水增暖后，其固碳能力会下降。例如，近几十年南大洋内部热含量的增长十分显著[12]，这可能导致南大洋固碳能力减弱[10]。大西洋经圈翻转环流减弱也可能会削弱深对流过程的固碳能力[13]。在碳中和气候状态下，海洋层结上层减弱、中深层加强，这对海洋储碳能力的影响尚不明确。北冰洋海底拥有巨大的碳埋藏量，一方面，北冰洋海水增暖使得这些冰状水合物极易融化分解，从而释放出CO2；另一方面，全球变暖导致北极海冰范围缩小，使得海表冷水与大气的接触增加，从而增强海水的储碳的能力，二者最终会导致北极碳收支发生何种变化也不明确。
+
+1.2.2 大气的响应和反馈
+
+我国碳中和目标的实现主要依赖于科技的进步和经济发展方式的转型，但同时也会受到我国未来气候走向的直接影响。例如，植树造林，以及利用太阳能、风能等新能源都是实现碳中和的重要举措，而在多大程度和范围内能够采取上述举措主要依赖于气温、降水、辐射、风速等基本的天气和气候状况；即使对于传统的水力发电，其在未来的能源供给能力也依赖于气候，特别是降水的走向。在极端天气条件下，如异常的“副高活动”“极涡活动”等带来的大范围风能、光能异常，可能导致大规模电力供应不足问题，如2020年冬季美国得克萨斯州的能源灾难问题。因此，在进行我国碳中和规划和碳汇的估算时必须考虑未来40年内气候走向这一要素。
+
+温室气体浓度变化对气候的影响主要分为2类不同时间尺度的过程[14]：受大气CO2强迫影响的快速调整过程、受全球平均温度变化影响的缓慢调整过程。在温室气体浓度上升阶段，两者同步增长，该情形下的气候变化研究相对较清楚[15, 16]；而在下降阶段，全球平均温度的增长将放缓，而科学界对该阶段的气候影响认识不够[10, 17]。此外，《巴黎协定》只给出了21世纪的温度控制目标，但实现目标的温室气体排放路径却有很多种可能[18]；同时，以不同的温室气体排放路径实现相同的温度目标，气候的响应也存在差异[19, 20]。
+
+1.2.3 地球系统内部变率的影响
+
+气候变化一部分是由温室气体排放、土地利用等人类活动引起的气候系统外强迫改变所造成的变化；另一部分则是由气候系统内部的大气、海洋、陆地、冰雪等圈层相互作用所引起的内部变率造成的变化[21]。过去40年，内部变率对东亚一些地区气温等要素变化的作用可以超过人类活动的作用[22, 23]。内部变率引发的气候变化与人类活动外强迫导致的变化相比具有更大的不确定性，是造成未来30—50年气候变化不确定性的重要来源[21]。因此，在考虑我国碳中和相关政策时，必须关注气候系统内部变率的作用，特别是由其引起的不确定性。目前，有关全球碳汇格局、时间尺度、演化趋势及其与气候系统互馈机理等方面的科学认识尚存在重大缺失，亟待进一步深入研究。
+
+2 我国陆地和海洋碳源/汇贡献和不确定性2.1 中国陆地生态系统碳源/汇综述
+
+陆地生态系统是我国最重要的碳汇之一[24]，系列研究利用不同的模型和方法，估算了我国区域陆地碳汇强度。这些研究对于量化我国陆地碳汇的贡献发挥了重要的作用。例如，Wang等[24]发现2010—2016年我国陆地生态系统年均吸收了同时期人为碳排放的45%，揭示了我国陆地生态圈的巨大碳汇作用。然而，目前对于我国区域陆地碳汇强度估算仍然存在着较大的不确定性，不同研究者对于碳汇强度估算存在明显的差异（表 1）[24-30]。
+
+表 1 中国陆地生态系统碳汇强度估计Table 1 Estimation of carbon sink of terrestrial ecosystem in China
+
+表选项
+
+2.1.1 森林碳汇的不确定性
+
+21世纪前10年我国森林年碳汇总量平均约为173.9 Tg C/yr（1 Tg C=1012 g），其中生物量、死有机质和土壤有机碳（SOC）的年碳储量变化分别为约150.2 Tg C/yr、9.0 Tg C/yr和24.7 Tg C/yr。但是，不同研究之间的结果差异较大。生物量碳库的不确定性主要来自不同研究所采用的森林面积不同，从1.428亿公顷[31]到1.882亿公顷[32]不等。一部分研究采用的森林面积数据来源于国家森林资源连续清查，另一部分研究采用了我国1 : 1 000 000植被图确定森林面积，而二者对于森林的定义存在显著区别。此外，多数研究只评估乔木林生物量碳储量变化，而较少涉及经济林、竹林、灌木林、稀疏林及森林之外的林木，也较少涉及死有机质和SOC碳库变化，难以全面衡量森林生态系统的碳汇功能。另外，SOC储量变化估算结果的不确定性与所评估的土层厚度不一致有很大关系[33, 34]。
+
+2.1.2 田间管理提高农业碳汇能力
+
+农田生态系统作为全球碳库中最活跃的部分，受耕作、灌溉、施肥等人类活动的影响最大，对大气碳含量影响也较为明显。目前的研究更多地关注了农田SOC储量变化，而对于SOC储量变化与非CO2温室气体排放之间平衡的研究相对较少。在农田生态系统中，作为土壤肥力关键指标的SOC含量，对粮食生产和缓解气候变化起着重要作用[35]。气候变暖和极端气候事件频发可能会导致SOC损失加剧，而提高作物产量、增加秸秆还田及少免耕等农业生产措施则会显著增加农田SOC[36-38]。
+
+2.1.3 湿地保护与碳汇
+
+我国自然湿地的SOC储量达8—17 Pg C，约占全国陆地SOC总储量的1/10—1/8，约占全球陆地SOC总储量的3.8% [39, 40]。我国自然湿地甲烷（CH4）年排放量估计为1.9—3.86 Tg C[41-43]。
+
+自然状态下，湿地生态系统都表现为碳汇[44-46]。但受人类活动影响，湿地被排干，其SOC分解速率加快，导致温室气体排放量增加，从而将湿地生态系统由碳汇转变为巨大碳源[47]。我国近半个世纪的湿地垦殖导致的碳损失量达每年173.2 Tg C [40]；同时，CH4排放量总共减少约10.3 Tg[41]。不同区域、不同类型的湿地，其CH4排放通量和固碳速率均有差异。因此，制定合理的湿地恢复政策，挖掘我国自然湿地的低碳汇价值，对于实现碳中和具有积极意义。
+
+2.2 海洋碳收支和海洋增汇
+
+海洋是巨大的碳汇和碳库，人类活动排放的CO2约有1/4—1/3被海洋吸收。海洋碳汇主要有海岸带高等植被（包括红树林、盐沼、海草床等）、微型生物碳汇（“生物泵”与“微型生物碳泵”）、以海藻养殖为主体的渔业碳汇等。海洋水体中蕴含巨大的可长久储存的惰性溶解有机碳（RDOC），其总量与大气碳量相当，而RDOC主要来自微型生物碳泵的贡献[48, 49]。海洋碳源/汇在不同海区有较大差别，急需综合考虑海区的外部碳输入和向外输出等因素，估测我国近海的碳源/汇情况[49]。目前，国际上还缺乏统一的海洋碳汇评估标准，急需强化不同生境海洋碳汇复杂过程和机制的深入研究，并在此基础上建立不同类型海洋碳汇的核查技术体系，大力研发海洋增汇技术，积极探索实施海洋增汇工程。目前，有潜力的增汇措施主要包括陆海统筹减排增汇、海洋缺氧环境减排增汇、滨海湿地减排增汇、养殖环境减排增汇、珊瑚礁生态系统减排增汇、海洋地质碳封存等[51]。
+
+3 地球系统科学支撑碳中和的关键技术手段及现存的关键问题3.1 基于地球系统模型模拟和预估气候变化，支撑碳中和路径和目标
+
+地球系统模式能够定量刻画大气、陆地、海洋碳循环等地球系统各部分之间的相互作用过程，是认识、理解全球碳循环过程和机制，以及模拟和预估气候变化的核心工具。通过设置不同的碳中和目标约束（如何减排、如何增汇等），地球系统模式得到最有效、最合理的碳中和路径，从而为寻找碳中和最优科学路径提供强有力的技术和工具支持。当前，我国具有自主知识产权的第二代中国科学院地球系统模式（CAS-ESM2）实现了碳循环和气候的完全耦合[52]，可以模拟地球各主要分系统对不同碳中和路径的响应，包括陆地和海洋碳通量变化、陆表植被和水文变化、气候变化等。然而，当前地球系统模式在功能和性能上还需进一步完善，特别是提升对人为过程、植被动态演变、火干扰、氮循环等过程的描述[53]。
+
+3.2 天空地一体化温室气体观测系统3.2.1 卫星遥感观测
+
+卫星遥感观测可以在碳源/汇核查方面发挥重要作用。我国于2016年发射了第一颗CO2监测科学实验卫星[54]，又陆续发射风云三号D星和高分五号大气成分监测卫星[55]。由于幅宽较小（10—20 km）且重访周期长，国际上现有卫星主要在全球尺度碳源/汇反演中发挥作用，还无法满足点源、城市、区域尺度监测需求。
+
+新一代的温室气体监测卫星的主要发展方向包括[56]：①提高观测的时空分辨率。例如，增加跨轨扫描宽度（&gt; 100 km）以提高覆盖范围（中国风云三号G星、大气环境监测卫星2星），提高时间分辨率（欧洲CO2M多星组网、美国GEOCARB静止轨道卫星），采用激光雷达（欧洲MERLIN、中国“环境一号”卫星）实现昼夜观测，以及温室气体和污染气体协同观测。②发展先进的遥感反演算法、快速高精度辐射传输模式和改进分子光谱学数据库。③进一步发展卫星数据同化方法，实现人为温室气体源汇清单反演能力。
+
+3.2.2 地面温室气体通量观测技术
+
+过去20多年，全球范围内形成了碳通量观测网络（FLUXNET），为全球碳收支与全球变化研究提供了高质量的温室气体地面通量长期观测数据[57]。面向碳中和的需求，也应把温室气体地面通量的监测网作为整个碳核算监测体系的重要组成部分。该监测网络的建设应关注5个方面：①加强典型城市下垫面的通量监测；②推动观测方法、数据处理、仪器操作和维护的规范化和标准化建设，提升地面观测通量数据的质量和可靠性；③强化非二通量先进测量技术的研发和加强CO2与主要非CO2温室气体（CH4和N2O）的地面通量同步观测；④加快自主技术仪器设备的研发；⑤加强基于自主技术气体分析仪的温室气体和污染气体地面通量观测研究。
+
+3.2.3 发展人为碳排放观测技术
+
+目前的观测技术在观测非CO2温室气体方面还有较大欠缺。虽然所有7种温室气体都有可满足精度需求的较成熟检测方法，但还存在体积大、成本高、运维难度大、在线化程度低等缺点，因此不利于获得广泛的高分辨观测数据。例如，氧化亚氮（N2O）、六氟化硫（SF6）、三氟化氮（NF3）需要带有电子捕获检测器的气相色谱仪，而氢氟碳化物（HFCs）、全氟碳化物（PFCs）需要气相色谱质谱联用仪。另外，不同高度的浓度观测所代表下垫面通量贡献区有显著的差异，因此基于雷达、高塔、飞机、探空的垂直分布观测也至关重要。
+
+3.2.4 加强城市碳监测平台建设
+
+城市占陆地面积不到3%，却直接排放了全球约44% 的CO2，间接影响了近80% 的能源相关的CO2排放，是估计人为碳排放的关键区域。在城市尺度上，CO2排放清单的统计数据和排放因子、时空分配方案等具有较大的不确定性，不同清单的差异可达70%—300%[58]，并且无法识别和定位未知的排放源。城市尺度的CO2浓度排放监测和反演可以提供独立的手段校准碳排放清单数据，服务于城市清单碳排放总量验证，追踪城市碳排放清单的遗漏。
+
+3.3 温室气体源-汇清单核算方法
+
+根据IPCC的国家温室气体清单指南，温室气体的人为源汇清单可用3个层级的方法编制；其中，第一、二层级是排放因子法，第三层级是过程模型法，都统一属于“自下而上”（bottom-up）方法。排放因子法目前还是各个国家或地方政府编制温室气体清单的通行方法。由于活动水平资料难以快速更新，且排放因子数据通常是一些有限条件观测数据的平均值，排放因子法往往不能比较客观地反映温室气体源-汇的动态变化与空间分布。相比而言，过程模型法则可以克服排放因子法的上述不足。但是，过程模型的构建和检验，以及其驱动数据的准备，难度相对较大，这导致过程模型法仅在极少数发达国家及我国的部分土地利用类型（如农田、湿地等）温室气体源-汇清单编制中得到应用。另外，对于土地覆被和土地利用变化引起的温室气体源-汇变化，以及畜牧业的温室气体排放，过程模型法的应用仍然具有挑战性。
+
+“自上而下”方法通过观测大气温室气体浓度，结合气象场资料和大气传输模式，利用同化技术反演估算区域源-汇及变化状况[59-61]。IPCC最新版的温室气体清单指南[62]首次提出，该方法反演估算的温室气体源-汇状况，作为完全独立的数据，可以被用来验证排放因子法或过程模型法编制的温室气体清单。当前，CO2同化系统发展趋势主要表现在4个方面：①联合同化地基观测和卫星遥感的XCO2（大气CO2柱浓度）数据。②联合同化大气CO2浓度、站点通量、遥感地表参数等数据[61]。③同时优化生态系统和化石燃料燃烧的CO2通量[63]。现有的全球碳同化系统基本上都假设化石燃料燃烧的CO2通量数据无误差，仅优化生态系统CO2通量，但事实并非如此[64]。14CO2是公认的理想化石燃料燃烧排放指示信号[65]。④通过污染气体和CO2的联合同化，以优化化石燃料燃烧CO2排放[66]。
+
+4 结论和建议
+
+实施碳中和目标将是我国21世纪最大规模的人类有序活动，涉及地球系统多圈层相互作用，必将触发地球环境演变，并催生新的科学前沿。本文总结了涉及碳中和的地球系统科学的若干科学技术问题，展望了发展趋势。基于上述讨论，提出3点科学建议。
+
+（1）自主构建气候变化监测指标系统，深入理解气候系统多圈层相互作用过程和机制，为碳中和目标的实现提供科学基础。针对我国尚未建立关键气候变化核心指标实时监测平台的问题，建议积极统筹各方力量，建立我国自主可控的气候变化核心监测指标集和平台，以实现全球气候变化核心数据的自主化并形成国际影响力，动态评估全球气候状况，为应对气候变化提供科学数据基础。对气候系统多圈层相互作用过程和机制的理解，是精准设置减排目标、准确评估气候变化影响和风险的基础。因此，要实现碳中和目标，需要全面加强全球碳汇格局、时间尺度、演化趋势及其与气候系统的互馈机理等方面的重要基础科学研究。
+
+（2）自主研发温室气体监测与核查技术和平台，为碳中和目标提供先进的科技支撑。目前，我国缺乏温室气体源汇评估的自主核查校验方法和技术平台。建议：①在监测数据获取能力方面，突破温室气体空间监测技术、地面监测网、垂直探测、自主先进探测技术、非CO2监测技术，推进城市碳监测平台建设，形成天空地一体化的温室气体监测能力。②在方法体系方面，研发基于天地一体化观测的多尺度温室气体清单校核方法。融合“自上而下”反演方法与高分辨率“自下而上”动态清单方法，实现人为源-汇变化的精细化监测，为国家相关政策的制定提供科学依据。③需要全面认识和调查海洋和陆地的生物及其物理固碳能力，全面监测我国的碳源/汇。
+
+（3）进一步完善地球系统模式，以国家“地球系统数值模拟装置”为核心，建设国家碳中和核算-评估-决策支持中心，用科技能力建设支撑碳中和战略的实施。需要研发和优化可正确刻画碳循环复杂过程的地球系统模型，结合不同减排情景和不同的人类活动影响，预估2030年和2060年的全球及我国碳收支特征，以及我国不同陆地生态系统对碳中和的贡献；研究规划最优碳中和路径的方法论，评估生态工程可能的方案和转换能源结构的最优途径，为我国2060年前实现碳中和目标提供强有力的科技支撑。
+
+参考文献
+
+[1]
+
+Matthews J B R. Annex I: Glossary//Masson-Delmotte V, Zhai P M, Pörtner H O, et al. Global Warming of 1.5℃. An IPCC Special Report. Cambridge: Cambridge University Press, 2018: 541-562.
+
+[2]
+
+中华人民共和国. 中华人民共和国气候变化第二次两年更新报告. (2018-12-01)[2021-05-09]. .
+
+[3]
+
+叶笃正, 符淙斌, 季劲钧, 等. 有序人类活动与生存环境. 地球科学进展, 2001, 16(4): 453-460. DOI:10.3321/j.issn:1001-8166.2001.04.001
+
+[4]
+
+曾庆存. 自然控制论. 气候与环境研究, 1996, 1(1): 11-20. DOI:10.3878/j.issn.1006-9585.1996.01.02
+
+[5]
+
+Rogelj J, Shindell D, Jiang K, et al. Mitigation pathways compatible with 1.5℃ in the Context of Sustainable Development//Masson-Delmotte V, Zhai P M, Pörtner H O, et al. Global Warming of 1.5℃. An IPCC Special Report. Cambridge: Cambridge University Press, 2018: 93-174.
+
+[6]
+
+IP CC. The Physical Science Basis, Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change: Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press, 2007.
+
+[7]
+
+IP CC. The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change: Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press, 2013.
+
+[8]
+
+Pörtner H O, Roberts D C, Masson-Delmotte V, et al. Summary for Policymakers//IPCC Special Report on the Ocean and Cryosphere in a Changing Climate. Cambridge: Cambridge University Press, 2019.
+
+[9]
+
+Matthews H D, Tokarska K B, Nicholls Z R J, et al. Opportunities and challenges in using remaining carbon budgets to guide climate policy. Nature Geoscience, 2020, 13(12): 769-779. DOI:10.1038/s41561-020-00663-3
+
+[10]
+
+龙上敏, 谢尚平, 刘秦玉, 等. 海洋对全球变暖的快慢响应与低温升目标. 科学通报, 2018, 63(Z1): 558-570.
+
+[11]
+
+Cheng L J, Abraham J, Hausfather Z, et al. How fast are the oceans warming?. Science, 2019, 363: 128-129. DOI:10.1126/science.aav7619
+
+[12]
+
+Liu W, Lu J, Xie S P, et al. Southern Ocean heat uptake, redistribution, and storage in a warming climate: The role of meridional overturning circulation. Journal of Climate, 2018, 31(12): 4727-4743. DOI:10.1175/JCLI-D-17-0761.1
+
+[13]
+
+Wen Q, Yao J, Döös K, et al. Decoding hosing and heating effects on global temperature and meridional circulations in a warming climate. Journal of Climate, 2018, 31(23): 9605-9623. DOI:10.1175/JCLI-D-18-0297.1
+
+[14]
+
+Li X Q, Ting M F. Understanding the Asian summer monsoon response to greenhouse warming: The relative roles of direct radiative forcing and sea surface temperature change. Climate Dynamics, 2017, 49(7/8): 2863-2880.
+
+[15]
+
+Rogelj J, Meinshausen M, Knutti R. Global warming under old and new scenarios using IPCC climate sensitivity range estimates. Nature Climate Change, 2012, 2(4): 248-253. DOI:10.1038/nclimate1385
+
+[16]
+
+周天军, 吴波, 郭准, 等. 东亚夏季风变化机理的模拟和未来变化的预估: 成绩和问题、机遇和挑战. 大气科学, 2018, 42(4): 902-934.
+
+[17]
+
+Keller D P, Lenton A, Scott V, et al. The carbon dioxide removal model intercomparison project (CDRMIP): Rationale and experimental protocol for CMIP6. Geoscientific Model Development, 2018, 11(3): 1133-1160. DOI:10.5194/gmd-11-1133-2018
+
+[18]
+
+Tanaka K, O'Neill B C. The Paris Agreement zero-emissions goal is not always consistent with the 1.5℃ and 2℃ temperature targets. Nature Climate Change, 2018, 8(4): 319-324. DOI:10.1038/s41558-018-0097-x
+
+[19]
+
+Good P, Booth B B B, Chadwick R, et al. Large differences in regional precipitation change between a first and second 2 K of global warming. Nature Communications, 2016, 7: 13667. DOI:10.1038/ncomms13667
+
+[20]
+
+Qu X, Huang G. Different multi-year mean temperature in mid-summer of South China under different 1.5℃ warming scenarios. Scientific Reports, 2018, 8(1): 13794. DOI:10.1038/s41598-018-32277-6
+
+[21]
+
+Intergovernmental Panel on Climate Change. Near-term climate change: Projections and predictability//Climate Change 2013-The Physical Science Basis: Working Group I Contribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press, 2013, 953-1028.
+
+[22]
+
+Gong H N, Wang L, Chen W, et al. Time-varying contribution of internal dynamics to wintertime land temperature trends over the Northern Hemisphere. Geophysical Research Letters, 2019, 46(24): 14674-14682. DOI:10.1029/2019GL086220
+
+[23]
+
+Gong H, Wang L, Chen W, et al. Attribution of the east Asian winter temperature trends during 1979-2018:Role of external forcing and internal variability. Geophysical Research Letters, 2019, 46(19): 10874-10881. DOI:10.1029/2019GL084154
+
+[24]
+
+Wang J, Feng L, Palmer P I, et al. Large Chinese land carbon sink estimated from atmospheric carbon dioxide data. Nature, 2020, 586: 720-723. DOI:10.1038/s41586-020-2849-9
+
+[25]
+
+Piao S L, Fang J Y, Ciais P, et al. The carbon balance of terrestrial ecosystems in China. Nature, 2009, 458: 1009-1013. DOI:10.1038/nature07944
+
+[26]
+
+Tian H Q, Xu X F, Lu C Q, et al. Net exchanges of CO2, CH4, and N2O between China's terrestrial ecosystems and the atmosphere and their contributions to global climate warming. Journal of Geophysical Research: Biogeosciences, 2011, 116: G02011.
+
+[27]
+
+Wang G C, Huang Y, Zhang W, et al. Quantifying carbon input for targeted soil organic carbon sequestration in China's croplands. Plant and Soil, 2015, 394(1/2): 57-71. DOI:10.1007/s11104-015-2508-3
+
+[28]
+
+Jiang F, Chen J M, Zhou L X, et al. A comprehensive estimate of recent carbon sinks in China using both top-down and bottom-up approaches. Scientific Reports, 2016, 6: 22130. DOI:10.1038/srep22130
+
+[29]
+
+He H L, Wang S Q, Zhang L, et al. Altered trends in carbon uptake in China's terrestrial ecosystems under the enhanced summer monsoon and warming hiatus. National Science Review, 2019, 6(3): 505-514. DOI:10.1093/nsr/nwz021
+
+[30]
+
+Zhang H F, Chen B Z, van der Laan-Luijkx I T, et al. Net terrestrial CO2 exchange over China during 2001-2010 estimated with an ensemble data assimilation system for atmospheric CO2. Journal of Geophysical Research: Atmospheres, 2014, 119(6): 3500-3515. DOI:10.1002/2013JD021297
+
+[31]
+
+Fang J Y, Guo Z D, Piao S L, et al. Terrestrial vegetation carbon sinks in China, 1981-2000. Science in China Series D: Earth Sciences, 2007, 50(9): 1341-1350. DOI:10.1007/s11430-007-0049-1
+
+[32]
+
+Tang X L, Zhao X, Bai Y F, et al. Carbon pools in China's terrestrial ecosystems: New estimates based on an intensive field survey. PNAS, 2018, 115(16): 4021-4026. DOI:10.1073/pnas.1700291115
+
+[33]
+
+Xie Z B, Zhu J G, Liu G, et al. Soil organic carbon stocks in China and changes from 1980s to 2000s. Global Change Biology, 2007, 13(9): 1989-2007. DOI:10.1111/j.1365-2486.2007.01409.x
+
+[34]
+
+Fang J Y, Yu G R, Liu L L, et al. Climate change, human impacts, and carbon sequestration in China. PNAS, 2018, 115(16): 4015-4020. DOI:10.1073/pnas.1700304115
+
+[35]
+
+Amundson R, Berhe A A, Hopmans J W, et al. Soil and human security in the 21st century. Science, 2015, 348: 1261071. DOI:10.1126/science.1261071
+
+[36]
+
+Wang Q F, Zheng H, Zhu X J, et al. Primary estimation of Chinese terrestrial carbon sequestration during 2001-2010. Science Bulletin, 2015, 60(6): 577-590. DOI:10.1007/s11434-015-0736-9
+
+[37]
+
+Yang F, Li Y, Cui Y, et al. Utilization and develop strategy of organic fertilizer resources in China soils and fertilizers sciences in China. Soil and Fertilizer Sciences in China, 2010, 4: 77-82.
+
+[38]
+
+易中懿. 中国农业机械化年鉴-2010. 北京: 中国农业科学技术出版社, 2010.
+
+[39]
+
+张旭辉, 李典友, 潘根兴, 等. 中国湿地土壤碳库保护与气候变化问题. 气候变化研究进展, 2008, 4: 202-208. DOI:10.3969/j.issn.1673-1719.2008.04.002
+
+[40]
+
+Xiao D R, Deng L, Kim D G, et al. Carbon budgets of wetland ecosystems in China. Global Change Biology, 2019, 25(6): 2061-2076. DOI:10.1111/gcb.14621
+
+[41]
+
+Li T, Zhang W, Zhang Q, et al. Impacts of climate and reclamation on temporal variations in CH4 emissions from different wetlands in China: From 1950 to 2010. Biogeosciences, 2015, 12(23): 6853-6868. DOI:10.5194/bg-12-6853-2015
+
+[42]
+
+Xu X F, Tian H Q. Methane exchange between marshland and the atmosphere over China during 1949-2008. Global Biogeochemical Cycles, 2012, 26(2): GB2006.
+
+[43]
+
+Wei D, Wang X D. CH4 exchanges of the natural ecosystems in China during the past three decades: The role of wetland extent and its dynamics. Journal of Geophysical Research: Biogeosciences, 2016, 121(9): 2445-2463. DOI:10.1002/2016JG003418
+
+[44]
+
+German Advisory Council on Global Change. The Accounting of Biological Sinks and Sources under the Kyoto Protocol: A Step Forwards or Backwards for Global Environmental Protection?. Bremerhaven: German Advisory Council on Global Change, 1998.
+
+[45]
+
+Mitra S, Wassmann R, Vlek P L G. An appraisal of global wetland area and its organic carbon stock. Current Science, 2005, 88(1): 25-35.
+
+[46]
+
+Mitsch W J, Bernal B, Nahlik A M, et al. Wetlands, carbon, and climate change. Landscape Ecology, 2013, 28(4): 583-597. DOI:10.1007/s10980-012-9758-8
+
+[47]
+
+Zhang C H, Ju W M, Chen J M, et al. China's forest biomass carbon sink based on seven inventories from 1973 to 2008. Climatic Change, 2013, 118(3/4): 933-948. DOI:10.1007/s10584-012-0666-3
+
+[48]
+
+Zhang Y, Zhao M X, Cui Q, et al. Processes of coastal ecosystem carbon sequestration and approaches for increasing carbon sink. Science China Earth Sciences, 2017, 60(5): 809-820. DOI:10.1007/s11430-016-9010-9
+
+[49]
+
+Zhang Y Y, Zhang J H, Liang Y T, et al. Carbon sequestration processes and mechanisms in coastal mariculture environments in China. Science China Earth Sciences, 2017, 60(12): 2097-2107. DOI:10.1007/s11430-017-9148-7
+
+[50]
+
+Jiao N Z, Liang Y T, Zhang Y Y, et al. Carbon pools and fluxes in the China seas and adjacent oceans. Science China Earth Sciences, 2018, 61(11): 1535-1563. DOI:10.1007/s11430-018-9190-x
+
+[51]
+
+焦念志, 刘纪化, 石拓, 等. 实施海洋负排放践行碳中和战略. 中国科学: 地球科学, 2021, 51(4): 632-643.
+
+[52]
+
+Zhang H, Zhang M, Jin J, et al. CAS-ESM 2:Description and climate simulation performance of the Chinese Academy of Sciences (CAS) Earth System Model (ESM) version 2. Journal of Advances in Modeling Earth Systems, 2020, 12: e2020MS002210.
+
+[53]
+
+Song X L, Zhang G J. The roles of convection parameterization in the formation of double ITCZ syndrome in the NCAR CESM: I. atmospheric processes. Journal of Advances in Modeling Earth Systems, 2018, 10(3): 842-866. DOI:10.1002/2017MS001191
+
+[54]
+
+Liu Y, Wang J, Yao L, et al. The TanSat mission: Preliminary global observations. Science Bulletin, 2018, 63(18): 1200-1207. DOI:10.1016/j.scib.2018.08.004
+
+[55]
+
+刘文清. '高分五号卫星载荷研制'专辑. 大气与环境光学学报, 2019, 14(1). 合肥: 中国科学院合肥物质科学研究院, 2019.
+
+[56]
+
+刘毅, 王婧, 车轲, 等. 温室气体的卫星遥感——进展与趋势. 遥感学报, 2021, 25(1): 53-64.
+
+[57]
+
+Papale D. Ideas and perspectives: Enhancing the impact of the FLUXNET network of eddy covariance sites. Biogeosciences, 2020, 17(22): 5587-5598. DOI:10.5194/bg-17-5587-2020
+
+[58]
+
+Han P F, Zeng N, Oda T, et al. A city-level comparison of fossil-fuel and industry processes-induced CO2 emissions over the Beijing-Tianjin-Hebei region from eight emission inventories. Carbon Balance and Management, 2020, 15(1): 1-16. DOI:10.1186/s13021-019-0136-6
+
+[59]
+
+Thompson R L, Patra P K, Chevallier F, et al. Top-down assessment of the Asian carbon budget since the mid 1990s. Nature Communications, 2016, 7(1): 1-10.
+
+[60]
+
+Monteil G, Broquet G, Scholze M, et al. The regional European atmospheric transport inversion comparison, EUROCOM: First results on European-wide terrestrial carbon fluxes for the period 2006-2015. Atmospheric Chemistry and Physics, 2020, 20(20): 12063-12091. DOI:10.5194/acp-20-12063-2020
+
+[61]
+
+Jiang F, Wang H M, Chen J M, et al. Regional CO2 fluxes from 2010 to 2015 inferred from GOSAT XCO2 retrievals using a new version of the Global Carbon Assimilation System. Atmospheric Chemistry and Physics, 2021, 21(3): 1963-1985. DOI:10.5194/acp-21-1963-2021
+
+[62]
+
+Buendia E, Tanabe K, Kranjc A, et al. Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Geneva: IPCC, 2019.
+
+[63]
+
+National Research Council Report. Verifying greenhouse gas emissions: Methods to support international climate agreements. Washington DC: National Academies Press, 2010.
+
+[64]
+
+Guan D, Liu Z, Geng Y, et al. The gigatonne gap in China's carbon dioxide inventories. Nature Climate Change, 2012, 2(9): 672-675. DOI:10.1038/nclimate1560
+
+[65]
+
+Basu S, Lehman J S, Miller P B, et al. Estimating US fossil fuel CO2 emissions from measurements of 14C in atmospheric CO2. PNAS, 2020, 117(24): 13300-13307. DOI:10.1073/pnas.1919032117
+
+[66]
+
+Super I, van der Gon H A C D, van der Molen M K, et al. Optimizing a dynamic fossil fuel CO2 emission model with CTDAS (CarbonTracker Data Assimilation Shell, v1.0) for an urban area using atmospheric observations of CO2, CO, NOx, and SO2. Geoscientific Model Development, 2020, 13(6): 2695-2721. DOI:10.5194/gmd-13-2695-2020
+
+
+
+
+文章编号: d055cfc1b074abd3c1e5d985c91510a6
+-----------------------------------------------------------------------------
+本内容经慧科的电子服务提供。以上内容、商标和标记属慧科、相关机构或版权拥有人所有，并保留一切权利。使用者提供的任何内容由使用者自行负责，慧科不会对该等内容、版权许可或由此引起的任何损害 / 损失承担责任。
+
+
+2. 360doc个人图书馆 -  (利用海洋碳汇先天优势 山东支持威海探索建设蓝碳交易平台) 2022-04-07 阅览室   
+
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+文字快照 :http://www.360doc.com/content/22/0407/16/7288840_1025283501.shtml
+
+
+
+
+展开全文
+
+大众网·海报新闻记者 杜虹晓 济南报道
+
+4月7日，山东省政府新闻办召开新闻发布会，解读《山东省“十四五”应对气候变化规划》。记者从发布会上了解到，山东在发展海洋碳汇方面具有先天的优势，支持威海市探索建设蓝碳交易平台，推动海洋碳汇由资源转化成资产。
+
+山东省生态环境厅应对气候变化处处长吴泓洋介绍，碳汇包括森林碳汇和海洋碳汇，森林碳汇称绿碳，海洋碳汇称蓝碳，是将海洋作为一个特定载体吸收大气中的二氧化碳，并将其固化的过程和机制。
+
+海洋作为地球上最大的碳库，覆盖了地球表面积的71%，具有储碳量大、储存时间长等优势，据估算，海洋碳库相当于陆地生态系统的20倍。海洋作为全球气候系统中的一个重要环节，固碳效果十分显著，对全球环境和气候有巨大调节作用。
+
+山东是海洋大省，拥有滨海盐沼、海草床、藻类贝类养殖等丰富的蓝碳资源，在发展海洋碳汇方面具有先天的优势。目前，依托省海洋资源与环境研究院成立了黄渤海蓝碳监测和评估研究中心，系统开展山东省海洋碳储量调查评估及其方法学等研究。威海等市已经在海洋碳汇建设方面开展了先行先试工作，取得了一定成效。
+
+“十四五”时期是贯彻落实积极应对气候变化国家战略，推动经济社会全面绿色低碳转型，助力碳达峰、碳中和目标实现的关键期、窗口期。面对应对气候变化新形势新任务，山东将从以下几个方面加快推动海洋碳汇建设。一是实施滨海湿地固碳增汇行动，开展典型滨海湿地蓝碳本底调查工作，推进盐沼生态系统修复，增加海草床面积、海草覆盖度，提高海洋生态系统碳汇能力。二是探索以近海海洋牧场和深远海养殖为重点的现代化海洋渔业发展新模式，高水平建设海洋牧场示范区。三是开展滨海湿地、海洋微生物、海水养殖等典型生态系统碳汇储量监测评估和固碳潜力分析，探索建立蓝碳数据库。四是加强海洋碳汇院士工作站、海洋负排放研究中心、黄渤海蓝碳监测和评估研究中心等创新平台建设，开展海洋碳汇技术研究，积极探索开发海洋碳汇方法学，鼓励相关自愿减排项目开发。五是积极探索区域碳普惠机制，支持威海市探索建设蓝碳交易平台，推动海洋碳汇由资源转化成资产。
+
+
+
+
+文章编号: 8bcc9dcf6e3c4396a4dd562c1f9532fb
+-----------------------------------------------------------------------------
+本内容经慧科的电子服务提供。以上内容、商标和标记属慧科、相关机构或版权拥有人所有，并保留一切权利。使用者提供的任何内容由使用者自行负责，慧科不会对该等内容、版权许可或由此引起的任何损害 / 损失承担责任。
+
+
+
+=============================================================================
+慧科讯业有限公司 查询请电: (852) 2948 3888 电邮速递: sales@wisers.com 网址: http://www.wisers.com
+版权所有 © 2026 慧科讯业. 保留所有权利.
